@@ -1,3 +1,3 @@
 # demofusionstage
 
-FusionStage Demo
+FusionStage Demo Project
