@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoFusionStageApplication",
+            "request": "launch",
+            "mainClass": "com.eduardo.demoFusionStage.DemoFusionStageApplication",
+            "projectName": "demoFusionStage"
+        }
+    ]
+}
